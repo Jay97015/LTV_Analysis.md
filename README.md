@@ -1,6 +1,6 @@
 # LTV_Analysis.md
 
-🙂 Data Project Update: Why looking ONLY at initial acquisition costs is a dangerous business trap.
+👉 Data Project Update: Why looking ONLY at initial acquisition costs is a dangerous business trap.
 
 On my last post, a great question was raised about the long-term impacts of ad-spend shifts on overall ROI. To answer that, I built Phase 2 of my SQL marketing analytics project. 
 
