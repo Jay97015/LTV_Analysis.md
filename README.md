@@ -4,7 +4,7 @@
 
 On my last post, a great question was raised about the long-term impacts of ad-spend shifts on overall ROI. To answer that, I built Phase 2 of my SQL marketing analytics project. 
 
-I engineered a new database pipeline to track Customer Lifetime Value (LTV) over a 6-month window. The results completely flipped the strategy upside down! 📊
+I engineered a new database pipeline to track Customer Lifetime Value (LTV) over a 6-month window. The results completely flipped the strategy upside down! 
 
  The True ROI Breakdown:
 • Instagram: Upfront CAC of $4.0, but generates a massive $255.0 LTV — yielding an incredible 63.75x return on ad spend.
